@@ -1,7 +1,7 @@
 <html>
 <body>
 
-<h1>TESTER OPROGRMOWANIA</h1>
+<h5>TESTER OPROGRMOWANIA</h5>
 
 <p>Studia nakierowane s¹ na budowanie kompetencji z zakresu organizacji i prowadzenia testów oprogramowania komputerowego. W oparciu o przyk³ady i praktyczne zagadnienia, a tak¿e studia przypadku zostan¹ przedstawione kluczowe techniki zwi¹zane z planowaniem testów oprogramowania zarówno w zespo³ach pracuj¹cych wed³ug metodyk klasycznych jak i wed³ug metodyk zwinnych. Zakres studiów obejmuje tak¿e automatyzacjê testów i prowadzenie testów oprogramowania dla urz¹dzeñ mobilnych. Zostan¹ równie¿ przekazane najwa¿niejsze kompetencje miêkkie zwi¹zane z prac¹ testerów w zespo³ach projektowych.</p>
 
@@ -14,10 +14,3 @@ Studia nakierowane s? na budowanie kompetencji z zakresu organizacji i prowadzen
 TESTER OPROGRMOWANIA
 Studia nakierowane s? na budowanie kompetencji z zakresu organizacji i prowadzenia test?w oprogramowania komputerowego. W oparciu o przyk?ady i praktyczne zagadnienia, a tak?e studia przypadku zostan? przedstawione kluczowe techniki zwi?zane z planowaniem test?w oprogramowania zar?wno w zespo?ach pracuj?cych wed?ug metodyk klasycznych jak i wed?ug metodyk zwinnych. Zakres studi?w obejmuje tak?e automatyzacj? test?w i prowadzenie test?w oprogramowania dla urz?dze? mobilnych. Zostan? r?wnie? przekazane najwa?niejsze kompetencje mi?kkie zwi?zane z prac? tester?w w zespo?ach projektowych.
 TESTER OPROGRMOWANIA
-Studia nakierowane s? na budowanie kompetencji z zakresu organizacji i prowadzenia test?w oprogramowania komputerowego. W oparciu o przyk?ady i praktyczne zagadnienia, a tak?e studia przypadku zostan? przedstawione kluczowe techniki zwi?zane z planowaniem test?w oprogramowania zar?wno w zespo?ach pracuj?cych wed?ug metodyk klasycznych jak i wed?ug metodyk zwinnych. Zakres studi?w obejmuje tak?e automatyzacj? test?w i prowadzenie test?w oprogramowania dla urz?dze? mobilnych. Zostan? r?wnie? przekazane najwa?niejsze kompetencje mi?kkie zwi?zane z prac? tester?w w zespo?ach projektowych.
-TESTER OPROGRMOWANIA
-Studia nakierowane s? na budowanie kompetencji z zakresu organizacji i prowadzenia test?w oprogramowania komputerowego. W oparciu o przyk?ady i praktyczne zagadnienia, a tak?e studia przypadku zostan? przedstawione kluczowe techniki zwi?zane z planowaniem test?w oprogramowania zar?wno w zespo?ach pracuj?cych wed?ug metodyk klasycznych jak i wed?ug metodyk zwinnych. Zakres studi?w obejmuje tak?e automatyzacj? test?w i prowadzenie test?w oprogramowania dla urz?dze? mobilnych. Zostan? r?wnie? przekazane najwa?niejsze kompetencje mi?kkie zwi?zane z prac? tester?w w zespo?ach projektowych.
-TESTER OPROGRMOWANIA
-Studia nakierowane s? na budowanie kompetencji z zakresu organizacji i prowadzenia test?w oprogramowania komputerowego. W oparciu o przyk?ady i praktyczne zagadnienia, a tak?e studia przypadku zostan? przedstawione kluczowe techniki zwi?zane z planowaniem test?w oprogramowania zar?wno w zespo?ach pracuj?cych wed?ug metodyk klasycznych jak i wed?ug metodyk zwinnych. Zakres studi?w obejmuje tak?e automatyzacj? test?w i prowadzenie test?w oprogramowania dla urz?dze? mobilnych. Zostan? r?wnie? przekazane najwa?niejsze kompetencje mi?kkie zwi?zane z prac? tester?w w zespo?ach projektowych.
-TESTER OPROGRMOWANIA
-Studia nakierowane s? na budowanie kompetencji z zakresu organizacji i prowadzenia test?w oprogramowania komputerowego. W oparciu o przyk?ady i praktyczne zagadnienia, a tak?e studia przypadku zostan? przedstawione kluczowe techniki zwi?zane z planowaniem test?w oprogramowania zar?wno w zespo?ach pracuj?cych wed?ug metodyk klasycznych jak i wed?ug metodyk zwinnych. Zakres studi?w obejmuje tak?e automatyzacj? test?w i prowadzenie test?w oprogramowania dla urz?dze? mobilnych. Zostan? r?wnie? przekazane najwa?niejsze kompetencje mi?kkie zwi?zane z prac? tester?w w zespo?ach projektowych.
