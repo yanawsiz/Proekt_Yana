@@ -14,4 +14,7 @@ Studia nakierowane s? na budowanie kompetencji z zakresu organizacji i prowadzen
 TESTER OPROGRMOWANIA
 Studia nakierowane s? na budowanie kompetencji z zakresu organizacji i prowadzenia test?w oprogramowania komputerowego. W oparciu o przyk?ady i praktyczne zagadnienia, a tak?e studia przypadku zostan? przedstawione kluczowe techniki zwi?zane z planowaniem test?w oprogramowania zar?wno w zespo?ach pracuj?cych wed?ug metodyk klasycznych jak i wed?ug metodyk zwinnych. Zakres studi?w obejmuje tak?e automatyzacj? test?w i prowadzenie test?w oprogramowania dla urz?dze? mobilnych. Zostan? r?wnie? przekazane najwa?niejsze kompetencje mi?kkie zwi?zane z prac? tester?w w zespo?ach projektowych.
 TESTER OPROGRMOWANIA
+<<<<<<< HEAD
 Lorem ipsum dolor sit amet enim. Etiam ullamcorper. Suspendisse a pellentesque dui, non felis. Maecenas malesuada elit lectus felis, malesuada ultricies. Curabitur et ligula. Ut molestie a, ultricies porta urna. Vestibulum commodo volutpat a, convallis ac, laoreet enim. Phasellus fermentum in, dolor. Pellentesque facilisis. Nulla imperdiet sit amet magna. Vestibulum dapibus, mauris nec malesuada fames ac turpis velit, rhoncus eu, luctus et interdum adipiscing wisi. Aliquam erat ac ipsum. Integer aliquam purus. 
+=======
+>>>>>>> 44d12a272402dd67d1c1c72355079fa268bfa77e
